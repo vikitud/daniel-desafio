@@ -24,6 +24,6 @@
             echo "<br>============= <br>";
         }
     }else{
-        echo "<br><h2>Nenhum cliente encontrado!</h2><br>";
+        echo "<br><h2>Nenhum produto encontrado!</h2><br>";
     }
 ?>
