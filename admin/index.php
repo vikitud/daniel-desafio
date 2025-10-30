@@ -7,6 +7,7 @@
     <a href="?pg=admin_clientes">Clientes</a>
     <a href="?pg=admin_paginas">Administra Páginas</a>
     <a href="?pg=admin_contato">Administrar Contatos</a>
+    <a href="?pg=admin_produtos">Produtos</a>
 </nav>
 <?php
     // Conteúdo
