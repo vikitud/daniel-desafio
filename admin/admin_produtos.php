@@ -20,7 +20,7 @@
             echo "Preço: R$ $dados[preco] | ";
             echo "Estoque: $dados[estoque]";
             echo " | <a href='?pg=altera_produtos&id=$dados[id]'>Alterar</a>";
-            echo " | <a href='?pg=deletar_produtos&id=$dados[id]'>Excluir</a>";
+            echo " | <a href='?pg=delete_produtos&id=$dados[id]'>Excluir</a>";
             echo "<br>============= <br>";
         }
     }else{
