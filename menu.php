@@ -13,6 +13,8 @@
             <li class="nav-item">
                 <a class="nav-link" href="?pg=faleconosco">Fale Conosco</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="?pg=produtos">Produtos</a>
         </ul>
     </div>
 </nav>
