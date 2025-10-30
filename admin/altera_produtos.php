@@ -17,8 +17,8 @@
 
     if($resultado){
         echo "Produto Alterado com sucesso!";
-        echo "<a href='?pg=admin_clientes'>Voltar</a>";
+        echo "<a href='?pg=admin_produtos'>Voltar</a>";
     }else{
         echo "Houve um erro na alteração.";
-        echo "<a href='?pg=admin_clientes'>Voltar</a>";
+        echo "<a href='?pg=admin_produto'>Voltar</a>";
     }
