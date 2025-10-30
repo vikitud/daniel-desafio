@@ -2,7 +2,7 @@
 
     require_once "config.inc.php";
 
-    $sql = "INSERT INTO  produtos (produto, preco, estoque)VALUES (
+    $sql = "INSERT INTO  produtos (produto, preco, estoque) VALUES (
             '$_POST[produto]','$_POST[preco]','$_POST[estoque]')";
 
     $execute = mysqli_query($conexao, $sql);

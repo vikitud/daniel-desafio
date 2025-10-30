@@ -2,7 +2,7 @@
     <label>Nome do produto:</label>
     <input type="text" name="produto">
     <label>preco:</label>
-    <input type="text" name="cidade">
+    <input type="text" name="preco">
     <label>estoque:</label>
     <input type="text" name="estoque">
     <input type="submit" value="Cadastrar">
