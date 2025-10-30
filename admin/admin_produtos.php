@@ -16,7 +16,7 @@
 
             echo "<br>===============<br>";
             echo "ID: $dados[id] | ";
-            echo "Nome: $dados[nome] | ";
+            echo "Nome: $dados[produto] | ";
             echo "Preço: R$ $dados[preco] | ";
             echo "Estoque: $dados[estoque]";
             echo " | <a href='?pg=altera_produtos&id=$dados[id]'>Alterar</a>";
